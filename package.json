@@ -1,4 +1,21 @@
 {
   "name": "md-links",
-  "version": "0.1.0"
+  "version": "1.0.0",
+  "description": "Markdown",
+  "main": "index.js",
+  "bin":{
+    "md-links": "./cli.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/JessicaZetina/MEX008-FE-md-link)"
+  },
+  "keywords": [
+    "Markdown"
+  ],
+  "author": "Jessica Zetina",
+  "license": "ISC"
 }

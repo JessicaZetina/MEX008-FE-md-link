@@ -1,5 +1,9 @@
 # Markdown Links
 
+##Diagrama de flujo
+
+![diagramadeflujo](libreria.png)
+
 ## Índice
 
 * [1. Preámbulo](#1-preámbulo)
