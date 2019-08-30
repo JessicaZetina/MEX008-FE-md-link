@@ -1,8 +1,8 @@
 # Markdown Links
 
-##Diagrama de flujo
+## Diagrama de flujo
 
-![diagramadeflujo](libreria.png)
+![diagramadeflujo](./img/libreria.png)
 
 ## Índice
 
