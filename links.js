@@ -14,7 +14,7 @@ function (markdown) {
       title: title,
     });
   };
-  renderer.image = function(href, title, text) {
+   function(href, title, text) {
      
 
       links.push({
