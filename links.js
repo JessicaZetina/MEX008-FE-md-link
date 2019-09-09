@@ -1,6 +1,6 @@
 const Marked = require('marked');
 
-// Función necesaria para extraer los links usando marked
+// Función para extraer los links usando marked
 
 
 function markdownLinkExtractor(markdown) {
@@ -32,4 +32,3 @@ function markdownLinkExtractor(markdown) {
 
   return links;
 };
-Tutoriales / N
