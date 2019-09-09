@@ -6,13 +6,11 @@ const Marked = require('marked');
 function (markdown) {
   const links = [];
 
-  const renderer = new Marked.Renderer();
 
-
-  renderer.link = function(href, title, text) {
+  const.link = function(href, title, text) {
     links.push({
-      href: href,
-      text: text,
+      href: href= link (1)
+      text: text= link(2)
       title: title,
     });
   };
