@@ -23,7 +23,7 @@ function (markdown) {
         title: title,
       });
   };
-  Marked(markdown, {renderer: renderer});
+  Marked(markdown, {});
 
   return links;
 };
