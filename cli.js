@@ -1,5 +1,11 @@
 #!/usr/bin/env node
 
-const prueba = require('./index')
+//const prueba = require('./index')
 
-prueba()
+//prueba()
+
+//proces comander
+
+//bin 
+
+//mini mist 

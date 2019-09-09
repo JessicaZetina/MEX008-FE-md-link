@@ -1,6 +1,6 @@
 # Markdown Links
 
-## mdDiagrama de flujo
+## Diagrama de flujo
 
 ![diagramadeflujo](./img/libreria.png)
 

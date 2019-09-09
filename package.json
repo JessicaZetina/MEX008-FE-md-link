@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Markdown",
   "main": "index.js",
-  "bin":{
+  "bin": {
     "md-links": "./cli.js"
   },
   "scripts": {
@@ -16,6 +16,12 @@
   "keywords": [
     "Markdown"
   ],
-  "author": "Jessica Zetina",
-  "license": "ISC"
+  "author": "Jessica Zetina <jessicazetina37@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
 }
